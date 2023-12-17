@@ -36,3 +36,5 @@ Credentials:
 Students:
 * Hiba Nokra
 * Chaimae Sadoune
+* Hamza Iben Jellal
+* Nabil Ramdani
